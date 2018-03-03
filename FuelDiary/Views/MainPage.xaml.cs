@@ -4,7 +4,6 @@ using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.Storage;
 
-
 namespace FuelDiary
 {
     public sealed partial class MainPage : Page
